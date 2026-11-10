@@ -1,0 +1,7 @@
+{
+  "name": "API-crypto",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
